@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 5. Formar una palabra en sentido inverso", "Ejercicio 5. Formar una palabra en sentido inverso\Ejercicio 5. Formar una palabra en sentido inverso.csproj", "{B2ED13ED-BEB6-4EF4-AECB-8CDF7F8B21FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2ED13ED-BEB6-4EF4-AECB-8CDF7F8B21FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2ED13ED-BEB6-4EF4-AECB-8CDF7F8B21FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2ED13ED-BEB6-4EF4-AECB-8CDF7F8B21FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2ED13ED-BEB6-4EF4-AECB-8CDF7F8B21FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5BB75AE-C54E-4A74-9126-2415239DFE36}
+	EndGlobalSection
+EndGlobal
